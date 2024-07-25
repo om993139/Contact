@@ -8,6 +8,8 @@ You can download the latest version by clicking the button below.
 
 [![Download](https://img.shields.io/badge/Download-Latest-blue)](#)
 
+
+
 ## ✨ Features
 
 - **Add Contacts**: Add new contacts with name, phone number, email, and profile photo.
@@ -21,9 +23,12 @@ You can download the latest version by clicking the button below.
 ## 📸 Screenshots
 
 <!-- Add your screenshots here -->
-![Screenshot1](#)
-![Screenshot2](#)
-![Screenshot3](#)
+
+
+![image](https://github.com/user-attachments/assets/a8c4c228-7c19-4099-bc61-c8dc1666b083)
+
+![image](https://github.com/user-attachments/assets/70e769c0-1fe8-407d-9f9f-e0b59668ef8d)
+
 
 ## 🛠 Installation
 
