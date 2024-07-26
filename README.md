@@ -23,18 +23,18 @@ You can download the latest version by clicking the button below.
 ## 📸 Screenshots
 
 <!-- Add your screenshots here -->
+![Design1](https://github.com/user-attachments/assets/83b76f15-7997-414e-9d8c-40490f7bb90c)
 
 
-![image](https://github.com/user-attachments/assets/a8c4c228-7c19-4099-bc61-c8dc1666b083)
 
-![image](https://github.com/user-attachments/assets/70e769c0-1fe8-407d-9f9f-e0b59668ef8d)
+![Design2](https://github.com/user-attachments/assets/ba858675-a4da-47fd-8fc9-52b97f203bad)
 
 
 ## 🛠 Installation
 
 1. Clone the repository:
     ```sh
-    
+    https://github.com/om993139/Contact
     ```
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
