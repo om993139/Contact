@@ -6,7 +6,8 @@ Contact is an Android application that allows users to manage their contacts eff
 
 You can download the latest version by clicking the button below.
 
-[![Download](https://img.shields.io/badge/Download-Latest-blue)](#)
+[![Download](https://img.shields.io/badge/Download-Latest-blue)](https://github.com/om993139/Contact/releases/download/v1.0.0/Contacts.apk)
+
 
 
 
